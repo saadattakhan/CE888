@@ -18,7 +18,7 @@ pip install --user virtualenv
 #### Create Virtual Environment
 python -m venv tenv
 #### Activate Virtual Environment
-source env/bin/activate
+source tenv/bin/activate
 #### Install Requirements
 pip install -r requirements.txt 
 
