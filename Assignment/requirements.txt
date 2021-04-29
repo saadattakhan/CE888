@@ -1,0 +1,7 @@
+emot==2.1
+pandas==1.2.4
+numpy==1.19.5
+sklearn==0.0
+spacy==2.3.3
+en-core-web-md==2.3.1
+xgboost==1.2.0
