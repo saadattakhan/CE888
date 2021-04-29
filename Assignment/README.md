@@ -8,7 +8,7 @@ Hate Speech Detection | Random Forest | 0.57 |
 Offensive Speech Identification | Random Forest | 0.71 | 
 Sentiment Analysis | Logistic Regression | 0.55 | 
 
-[LINK](https://github.com/saadattakhan/CE888/blob/main/Assignment/Twitter%20Analysis%20for%20Hate%2C%20Offensive%20and%20Sentiment.pdf) to paper
+[LINK](https://github.com/saadattakhan/CE888/blob/main/Assignment/CE888_2004532_Assignment.pdf) to paper
 
 #### Download dataset
 [LINK](https://github.com/cardiffnlp/tweeteval/tree/main/datasets/hate) to Hate Speech Dataset <br />
