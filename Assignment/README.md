@@ -1,5 +1,12 @@
 ## Twitter Analysis
 ### Hate Speech Detection | Offensive Speech Detection | Sentiment Analysis
+In this project I evaluated multiple Machine Learning Models on Twitter dataset for classification task. I have performed necessary preprocessing for cleaning tweets data and evaluated Logistic Regression Classifier, Linear SVC Classifier, Random Forest Classifier and XGB Classifier on test dataset. I achieved following F-1 score for three classification tasks
+
+Task | Classifier | F-1 Score (Test) | 
+--- | --- | --- | 
+Hate Speech Detection | Random Forest | 0.57 | 
+Offensive Speech Identification | Random Forest | 0.71 | 
+Sentiment Analysis | Logistic Regression | 0.55 | 
 
 #### Download dataset
 [LINK](https://github.com/cardiffnlp/tweeteval/tree/main/datasets/hate) to Hate Speech Dataset <br />
