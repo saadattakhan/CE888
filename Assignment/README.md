@@ -20,7 +20,11 @@ python -m venv tenv
 #### Activate Virtual Environment
 source tenv/bin/activate
 #### Install Requirements
-pip install -r requirements.txt 
+pip install -r requirements.txt
+
+#### Install Spacy Dataset
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_md
 
 #### Run Code with dataset path and task name (hate,offensive,sentiment)
 python main.py 'hate/' 'hate'
