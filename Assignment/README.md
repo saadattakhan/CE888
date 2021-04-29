@@ -23,7 +23,7 @@ source tenv/bin/activate
 pip install -r requirements.txt
 
 #### Install Spacy Dataset
-python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_sm<br />
 python -m spacy download en_core_web_md
 
 #### Run Code with dataset path and task name (hate,offensive,sentiment)
